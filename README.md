@@ -31,7 +31,7 @@ Before running the project, have the following installed:
 - Python 3.x (tested using 3.11)
 - Jupyter Notebook
 - pip (Python package manager)
-- 
+  
 Required Python Libraries:
 - pandas
 - numpy
