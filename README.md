@@ -13,9 +13,9 @@ Fault Detection in New Energy Vehicles using K-Means clustering methodology.
 - **Description**: This project focuses on identifying and categorizing fault patterns in New Energy Vehicles (NEVs) using unsupervised clustering algorithms. Early detection of faults is crucial for preventing breakdowns, reducing maintenance costs, and enhancing vehicle reliability and safety.
 - **Features**:
     - Sensor Measurements: battery voltage (V), battery current (A), engine temperature (°C), motor efficiency (%), tire pressure (PSI), fuel efficiency (MPG), speed (km/h), acceleration (m/s²), driving distance (km), ambient temperature (°C), and humidity (%).
-    – Operational Metrics: last service distance (km), service frequency (count), repair cost (USD), and downtime (hours).
-    – Condition Indicators: road conditions (categorical: Hilly, Smooth, Bumpy) and time since last fault (days).
-    – Target Variable: fault type with 4 categories: sensor malfunction, engine overheating, battery issue, and no fault
+    - Operational Metrics: last service distance (km), service frequency (count), repair cost (USD), and downtime (hours).
+    - Condition Indicators: road conditions (categorical: Hilly, Smooth, Bumpy) and time since last fault (days).
+    - Target Variable: fault type with 4 categories: sensor malfunction, engine overheating, battery issue, and no fault
 - **Technologies Used**:
     - Python 3.11
     - Jupyter Notebook
