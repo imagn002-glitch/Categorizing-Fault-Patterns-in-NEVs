@@ -1,5 +1,5 @@
 # Categorizing-Fault-Patterns-in-NEVs
-Fault Detection in New Energy Vehicles using K-Means clustering methodology.
+Fault Detection in New Energy Vehicles using K-means clustering methodology.
 
 ## Table of Contents
 
