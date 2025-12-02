@@ -80,6 +80,9 @@ for col in df.select_dtypes(include=’object’):
 scaler = StandardScaler()
 numeric_cols = df.select_dtypes(include=np.number).columns
 df[numeric_cols] = scaler.fit_transform(df[numeric_cols])
+
+# Execute K-means clustering algorithm
+# Visualize and analyze fault pattern clusters
 ```
 
 ## Contact
